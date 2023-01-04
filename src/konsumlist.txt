@@ -1,0 +1,6 @@
+=====================================
+STRUK PEMESANAN , BAWA KE KASIR
+Nik : 330
+Nama : fadli
+Pesanan : Kentang Goreng
+=====================================
